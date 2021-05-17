@@ -5,8 +5,8 @@
 ## Librerias
 ##---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 import pymongo
-from datetime import datetime # Para insertar la fecha actual
-import time #Librería con funcionalidades manipular y dar formato a fechas y horas
+from datetime import datetime
+import time 
 
 
 from variables import *
@@ -27,11 +27,10 @@ db = client.get_default_database() # Accedemos a la BD donde tenemos las colecci
 dbUsuarios = db.usuarios
 dbMensajes = db.mensajes
 
-#msg['from']={'nombre': 'Carlos', '_id': 1922240 'idioma': 'cast'}
 
 
 ##---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Funciónes
+## Funciones
 ##---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 def insertarNuevoUsuario(nombreUsuario, idUsario):
