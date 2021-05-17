@@ -4,10 +4,10 @@
 ##---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Librerias
 ##---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-import telepot #Framework para Telegram Bot API
-from telepot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton #Incluye las funcionalidades para crear teclados personalizados
+import telepot 
+from telepot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton 
 
-import time #Librería con funcionalidades manipular y dar formato a fechas y horas
+import time 
 
 # Mis funciones
 from Respuesta import *
@@ -40,7 +40,7 @@ funcionBoton = {        # Las funciones se encuentran en: "from botonesTeclados 
 # ------------------------------------------------------------------------- CASE
 
 ##---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Funciónes
+## Funciones
 ##---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Si el mensaje recibido se tratara de un chat ------------------------------------------------------------------------------------------------------------------------
