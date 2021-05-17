@@ -19,9 +19,6 @@ from variables import *
 
 
 def buscarRespuestaWH(r):
-    """La variable 'resultado' será pasado como diccionario con
-    el esquema de respuesta de api.ai. Solo se llamara a la
-    función cuando webhookUsed = 'true' """
 
     res = requests.post(WebHook_URL, data=json.dumps(r))
 
