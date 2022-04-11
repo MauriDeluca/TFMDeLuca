@@ -1,0 +1,970 @@
+{
+    "intents": [
+        {
+            "tag": "pareja",
+            "patterns": [
+                "pareja"
+            ]
+        },
+        {
+            "tag": "familia",
+            "patterns": [
+                "familia"
+            ]
+        },
+        {
+            "tag": "amigos",
+            "patterns": [
+                "amigos"
+            ]
+        },
+        {
+            "tag": "yo sola",
+            "patterns": [
+                "yo sola"
+            ]
+        },
+        {
+            "tag": "solo",
+            "patterns": [
+                "solo"
+            ]
+        },
+        {
+            "tag": "sola",
+            "patterns": [
+                "sola"
+            ]
+        },
+        {
+            "tag": "mi hija ",
+            "patterns": [
+                "mi hija "
+            ]
+        },
+        {
+            "tag": "sola, y si alguien se suma mejor!",
+            "patterns": [
+                "sola, y si alguien se suma mejor!"
+            ]
+        },
+        {
+            "tag": "amigos y pareja ",
+            "patterns": [
+                "amigos y pareja "
+            ]
+        },
+        {
+            "tag": "depende de lugar y la ocasi\u00f3n ",
+            "patterns": [
+                "depende de lugar y la ocasi\u00f3n "
+            ]
+        },
+        {
+            "tag": "solo/a",
+            "patterns": [
+                "solo/a"
+            ]
+        },
+        {
+            "tag": "hacer turismo en el destino vacacional",
+            "patterns": [
+                "hacer turismo en el destino vacacional"
+            ]
+        },
+        {
+            "tag": "hacer turismo en el destino vacacional;disfrutar de la gastronom\u00eda",
+            "patterns": [
+                "hacer turismo en el destino vacacional",
+                "disfrutar de la gastronom\u00eda"
+            ]
+        },
+        {
+            "tag": "relajarse",
+            "patterns": [
+                "relajarse"
+            ]
+        },
+        {
+            "tag": "relajarse;deportes / aventura",
+            "patterns": [
+                "relajarse",
+                "deportes / aventura"
+            ]
+        },
+        {
+            "tag": "deportes / aventura;disfrutar de la gastronom\u00eda",
+            "patterns": [
+                "deportes / aventura",
+                "disfrutar de la gastronom\u00eda"
+            ]
+        },
+        {
+            "tag": "relajarse;hacer turismo en el destino vacacional",
+            "patterns": [
+                "relajarse",
+                "hacer turismo en el destino vacacional"
+            ]
+        },
+        {
+            "tag": "relajarse;disfrutar de la gastronom\u00eda",
+            "patterns": [
+                "relajarse",
+                "disfrutar de la gastronom\u00eda"
+            ]
+        },
+        {
+            "tag": "todos las opciones ",
+            "patterns": [
+                "todos las opciones "
+            ]
+        },
+        {
+            "tag": "deportes / aventura;hacer turismo en el destino vacacional",
+            "patterns": [
+                "deportes / aventura",
+                "hacer turismo en el destino vacacional"
+            ]
+        },
+        {
+            "tag": "deportes / aventura",
+            "patterns": [
+                "deportes / aventura"
+            ]
+        },
+        {
+            "tag": "relajarse;playa",
+            "patterns": [
+                "relajarse",
+                "playa"
+            ]
+        },
+        {
+            "tag": "playa",
+            "patterns": [
+                "playa"
+            ]
+        },
+        {
+            "tag": "relajarse;salidas nocturnas",
+            "patterns": [
+                "relajarse",
+                "salidas nocturnas"
+            ]
+        },
+        {
+            "tag": "todo ",
+            "patterns": [
+                "todo "
+            ]
+        },
+        {
+            "tag": "disfrutar de la gastronom\u00eda",
+            "patterns": [
+                "disfrutar de la gastronom\u00eda"
+            ]
+        },
+        {
+            "tag": "salidas nocturnas;hacer turismo en el destino vacacional",
+            "patterns": [
+                "salidas nocturnas",
+                "hacer turismo en el destino vacacional"
+            ]
+        },
+        {
+            "tag": "salidas nocturnas;disfrutar de la gastronom\u00eda",
+            "patterns": [
+                "salidas nocturnas",
+                "disfrutar de la gastronom\u00eda"
+            ]
+        },
+        {
+            "tag": "recorrer s\u00f3lo los puntos de inter\u00e9s del destino",
+            "patterns": [
+                "recorrer s\u00f3lo los puntos de inter\u00e9s del destino"
+            ]
+        },
+        {
+            "tag": "conocer mayormente el destino por cuenta propia",
+            "patterns": [
+                "conocer mayormente el destino por cuenta propia"
+            ]
+        },
+        {
+            "tag": "disfrutar y recorrer tranquilamente",
+            "patterns": [
+                "disfrutar y recorrer tranquilamente"
+            ]
+        },
+        {
+            "tag": "conocer mayormente el destino por cuenta propia;disfrutar y recorrer tranquilamente;ir a festivales o eventos si hubiera en esa fecha",
+            "patterns": [
+                "conocer mayormente el destino por cuenta propia",
+                "disfrutar y recorrer tranquilamente",
+                "ir a festivales o eventos si hubiera en esa fecha"
+            ]
+        },
+        {
+            "tag": "conocer mayormente el destino por cuenta propia;solo alguna excursi\u00f3n especifica",
+            "patterns": [
+                "conocer mayormente el destino por cuenta propia",
+                "solo alguna excursi\u00f3n especifica"
+            ]
+        },
+        {
+            "tag": "conocer mayormente el destino por cuenta propia;disfrutar y recorrer tranquilamente",
+            "patterns": [
+                "conocer mayormente el destino por cuenta propia",
+                "disfrutar y recorrer tranquilamente"
+            ]
+        },
+        {
+            "tag": "conocer mayormente el destino por cuenta propia;recorrer s\u00f3lo los puntos de inter\u00e9s del destino;ir a festivales o eventos si hubiera en esa fecha",
+            "patterns": [
+                "conocer mayormente el destino por cuenta propia",
+                "recorrer s\u00f3lo los puntos de inter\u00e9s del destino",
+                "ir a festivales o eventos si hubiera en esa fecha"
+            ]
+        },
+        {
+            "tag": "excursiones de agencias tur\u00edsticas;conocer mayormente el destino por cuenta propia;disfrutar y recorrer tranquilamente",
+            "patterns": [
+                "excursiones de agencias tur\u00edsticas",
+                "conocer mayormente el destino por cuenta propia",
+                "disfrutar y recorrer tranquilamente"
+            ]
+        },
+        {
+            "tag": "conocer mayormente el destino por cuenta propia;solo alguna excursi\u00f3n especifica;disfrutar y recorrer tranquilamente",
+            "patterns": [
+                "conocer mayormente el destino por cuenta propia",
+                "solo alguna excursi\u00f3n especifica",
+                "disfrutar y recorrer tranquilamente"
+            ]
+        },
+        {
+            "tag": "conocer mayormente el destino por cuenta propia;ir a festivales o eventos si hubiera en esa fecha",
+            "patterns": [
+                "conocer mayormente el destino por cuenta propia",
+                "ir a festivales o eventos si hubiera en esa fecha"
+            ]
+        },
+        {
+            "tag": "disfrutar y recorrer tranquilamente;ir a festivales o eventos si hubiera en esa fecha",
+            "patterns": [
+                "disfrutar y recorrer tranquilamente",
+                "ir a festivales o eventos si hubiera en esa fecha"
+            ]
+        },
+        {
+            "tag": "solo alguna excursi\u00f3n especifica;disfrutar y recorrer tranquilamente",
+            "patterns": [
+                "solo alguna excursi\u00f3n especifica",
+                "disfrutar y recorrer tranquilamente"
+            ]
+        },
+        {
+            "tag": "recorrer s\u00f3lo los puntos de inter\u00e9s del destino;ir a festivales o eventos si hubiera en esa fecha",
+            "patterns": [
+                "recorrer s\u00f3lo los puntos de inter\u00e9s del destino",
+                "ir a festivales o eventos si hubiera en esa fecha"
+            ]
+        },
+        {
+            "tag": "recorrer s\u00f3lo los puntos de inter\u00e9s del destino;disfrutar y recorrer tranquilamente",
+            "patterns": [
+                "recorrer s\u00f3lo los puntos de inter\u00e9s del destino",
+                "disfrutar y recorrer tranquilamente"
+            ]
+        },
+        {
+            "tag": "excursiones de agencias tur\u00edsticas;disfrutar y recorrer tranquilamente",
+            "patterns": [
+                "excursiones de agencias tur\u00edsticas",
+                "disfrutar y recorrer tranquilamente"
+            ]
+        },
+        {
+            "tag": "conocer mayormente el destino por cuenta propia;recorrer s\u00f3lo los puntos de inter\u00e9s del destino;disfrutar y recorrer tranquilamente",
+            "patterns": [
+                "conocer mayormente el destino por cuenta propia",
+                "recorrer s\u00f3lo los puntos de inter\u00e9s del destino",
+                "disfrutar y recorrer tranquilamente"
+            ]
+        },
+        {
+            "tag": "excursiones de agencias tur\u00edsticas;conocer mayormente el destino por cuenta propia;ir a festivales o eventos si hubiera en esa fecha",
+            "patterns": [
+                "excursiones de agencias tur\u00edsticas",
+                "conocer mayormente el destino por cuenta propia",
+                "ir a festivales o eventos si hubiera en esa fecha"
+            ]
+        },
+        {
+            "tag": "excursiones de agencias tur\u00edsticas;conocer mayormente el destino por cuenta propia",
+            "patterns": [
+                "excursiones de agencias tur\u00edsticas",
+                "conocer mayormente el destino por cuenta propia"
+            ]
+        },
+        {
+            "tag": "excursiones de agencias tur\u00edsticas;disfrutar y recorrer tranquilamente;ir a festivales o eventos si hubiera en esa fecha",
+            "patterns": [
+                "excursiones de agencias tur\u00edsticas",
+                "disfrutar y recorrer tranquilamente",
+                "ir a festivales o eventos si hubiera en esa fecha"
+            ]
+        },
+        {
+            "tag": "recorrer s\u00f3lo los puntos de inter\u00e9s del destino;solo alguna excursi\u00f3n especifica;disfrutar y recorrer tranquilamente",
+            "patterns": [
+                "recorrer s\u00f3lo los puntos de inter\u00e9s del destino",
+                "solo alguna excursi\u00f3n especifica",
+                "disfrutar y recorrer tranquilamente"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking;caminar",
+            "patterns": [
+                "senderismo o trekking",
+                "caminar"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking",
+            "patterns": [
+                "senderismo o trekking"
+            ]
+        },
+        {
+            "tag": "no hago deportes en vacaciones",
+            "patterns": [
+                "no hago deportes en vacaciones"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking;deportes extremos (escalada / parapente / alpinismo )",
+            "patterns": [
+                "senderismo o trekking",
+                "deportes extremos (escalada / parapente / alpinismo )"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking;deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+            "patterns": [
+                "senderismo o trekking",
+                "deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)"
+            ]
+        },
+        {
+            "tag": "running",
+            "patterns": [
+                "running"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking;ski / snowboard;deportes extremos (escalada / parapente / alpinismo )",
+            "patterns": [
+                "senderismo o trekking",
+                "ski / snowboard",
+                "deportes extremos (escalada / parapente / alpinismo )"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking;ski / snowboard;deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+            "patterns": [
+                "senderismo o trekking",
+                "ski / snowboard",
+                "deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)"
+            ]
+        },
+        {
+            "tag": "deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+            "patterns": [
+                "deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking;ski / snowboard",
+            "patterns": [
+                "senderismo o trekking",
+                "ski / snowboard"
+            ]
+        },
+        {
+            "tag": "running;surf;ski / snowboard",
+            "patterns": [
+                "running",
+                "surf",
+                "ski / snowboard"
+            ]
+        },
+        {
+            "tag": "running;deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+            "patterns": [
+                "running",
+                "deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking;deportes extremos (escalada / parapente / alpinismo );deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+            "patterns": [
+                "senderismo o trekking",
+                "deportes extremos (escalada / parapente / alpinismo )",
+                "deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)"
+            ]
+        },
+        {
+            "tag": "deportes extremos (escalada / parapente / alpinismo )",
+            "patterns": [
+                "deportes extremos (escalada / parapente / alpinismo )"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking;deportes extremos (escalada / parapente / alpinismo );f\u00fatbol con gente local",
+            "patterns": [
+                "senderismo o trekking",
+                "deportes extremos (escalada / parapente / alpinismo )",
+                "f\u00fatbol con gente local"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking;surf",
+            "patterns": [
+                "senderismo o trekking",
+                "surf"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking;running",
+            "patterns": [
+                "senderismo o trekking",
+                "running"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking;running;deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+            "patterns": [
+                "senderismo o trekking",
+                "running",
+                "deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)"
+            ]
+        },
+        {
+            "tag": "surf",
+            "patterns": [
+                "surf"
+            ]
+        },
+        {
+            "tag": "ski / snowboard",
+            "patterns": [
+                "ski / snowboard"
+            ]
+        },
+        {
+            "tag": "senderismo o trekking;running;ski / snowboard",
+            "patterns": [
+                "senderismo o trekking",
+                "running",
+                "ski / snowboard"
+            ]
+        },
+        {
+            "tag": "bar;fiestas o festivales del destino si hay en esa fecha",
+            "patterns": [
+                "bar",
+                "fiestas o festivales del destino si hay en esa fecha"
+            ]
+        },
+        {
+            "tag": "no salgo mucho por la noche",
+            "patterns": [
+                "no salgo mucho por la noche"
+            ]
+        },
+        {
+            "tag": "fiestas o festivales del destino si hay en esa fecha",
+            "patterns": [
+                "fiestas o festivales del destino si hay en esa fecha"
+            ]
+        },
+        {
+            "tag": "concierto o m\u00fasica en vivo;fiestas o festivales del destino si hay en esa fecha;fogata nocturna",
+            "patterns": [
+                "concierto o m\u00fasica en vivo",
+                "fiestas o festivales del destino si hay en esa fecha",
+                "fogata nocturna"
+            ]
+        },
+        {
+            "tag": "bar;fiestas o festivales del destino si hay en esa fecha;fogata nocturna",
+            "patterns": [
+                "bar",
+                "fiestas o festivales del destino si hay en esa fecha",
+                "fogata nocturna"
+            ]
+        },
+        {
+            "tag": "fogata nocturna",
+            "patterns": [
+                "fogata nocturna"
+            ]
+        },
+        {
+            "tag": "bar;concierto o m\u00fasica en vivo;fiestas o festivales del destino si hay en esa fecha",
+            "patterns": [
+                "bar",
+                "concierto o m\u00fasica en vivo",
+                "fiestas o festivales del destino si hay en esa fecha"
+            ]
+        },
+        {
+            "tag": "concierto o m\u00fasica en vivo;fogata nocturna;no salgo mucho por la noche",
+            "patterns": [
+                "concierto o m\u00fasica en vivo",
+                "fogata nocturna",
+                "no salgo mucho por la noche"
+            ]
+        },
+        {
+            "tag": "bar",
+            "patterns": [
+                "bar"
+            ]
+        },
+        {
+            "tag": "concierto o m\u00fasica en vivo",
+            "patterns": [
+                "concierto o m\u00fasica en vivo"
+            ]
+        },
+        {
+            "tag": "concierto o m\u00fasica en vivo;fiestas o festivales del destino si hay en esa fecha",
+            "patterns": [
+                "concierto o m\u00fasica en vivo",
+                "fiestas o festivales del destino si hay en esa fecha"
+            ]
+        },
+        {
+            "tag": "discoteca",
+            "patterns": [
+                "discoteca"
+            ]
+        },
+        {
+            "tag": "concierto o m\u00fasica en vivo;fogata nocturna",
+            "patterns": [
+                "concierto o m\u00fasica en vivo",
+                "fogata nocturna"
+            ]
+        },
+        {
+            "tag": "no salgo mucho por la noche;pasear por el lugar y cenar.",
+            "patterns": [
+                "no salgo mucho por la noche",
+                "pasear por el lugar y cenar."
+            ]
+        },
+        {
+            "tag": "discoteca;fogata nocturna",
+            "patterns": [
+                "discoteca",
+                "fogata nocturna"
+            ]
+        },
+        {
+            "tag": "bar;concierto o m\u00fasica en vivo",
+            "patterns": [
+                "bar",
+                "concierto o m\u00fasica en vivo"
+            ]
+        },
+        {
+            "tag": "discoteca;bar;fiestas o festivales del destino si hay en esa fecha",
+            "patterns": [
+                "discoteca",
+                "bar",
+                "fiestas o festivales del destino si hay en esa fecha"
+            ]
+        },
+        {
+            "tag": "discoteca;concierto o m\u00fasica en vivo;fiestas o festivales del destino si hay en esa fecha",
+            "patterns": [
+                "discoteca",
+                "concierto o m\u00fasica en vivo",
+                "fiestas o festivales del destino si hay en esa fecha"
+            ]
+        },
+        {
+            "tag": "bar;concierto o m\u00fasica en vivo;fogata nocturna",
+            "patterns": [
+                "bar",
+                "concierto o m\u00fasica en vivo",
+                "fogata nocturna"
+            ]
+        },
+        {
+            "tag": "discoteca;bar;fogata nocturna",
+            "patterns": [
+                "discoteca",
+                "bar",
+                "fogata nocturna"
+            ]
+        },
+        {
+            "tag": "discoteca;bar",
+            "patterns": [
+                "discoteca",
+                "bar"
+            ]
+        },
+        {
+            "tag": "bar;fogata nocturna",
+            "patterns": [
+                "bar",
+                "fogata nocturna"
+            ]
+        },
+        {
+            "tag": "discoteca;bar;concierto o m\u00fasica en vivo",
+            "patterns": [
+                "discoteca",
+                "bar",
+                "concierto o m\u00fasica en vivo"
+            ]
+        },
+        {
+            "tag": "disfrutar de la naturaleza, playa, parque,monta\u00f1a, etc",
+            "patterns": [
+                "disfrutar de la naturaleza, playa, parque,monta\u00f1a, etc"
+            ]
+        },
+        {
+            "tag": "aprovechar del alojamiento y salir cuando tienes ganas",
+            "patterns": [
+                "aprovechar del alojamiento y salir cuando tienes ganas"
+            ]
+        },
+        {
+            "tag": "disfrutar de la naturaleza, playa, parque,monta\u00f1a, etc;dia de spa/sauna/masajes",
+            "patterns": [
+                "disfrutar de la naturaleza, playa, parque,monta\u00f1a, etc",
+                "dia de spa/sauna/masajes"
+            ]
+        },
+        {
+            "tag": "disfrutar de la naturaleza, playa, parque,monta\u00f1a, etc;actividades de relajacion como yoga, pilates, entre otras",
+            "patterns": [
+                "disfrutar de la naturaleza, playa, parque,monta\u00f1a, etc",
+                "actividades de relajacion como yoga, pilates, entre otras"
+            ]
+        },
+        {
+            "tag": "disfrutar de la naturaleza, playa, parque,monta\u00f1a, etc;aprovechar del alojamiento y salir cuando tienes ganas",
+            "patterns": [
+                "disfrutar de la naturaleza, playa, parque,monta\u00f1a, etc",
+                "aprovechar del alojamiento y salir cuando tienes ganas"
+            ]
+        },
+        {
+            "tag": "disfrutar de la naturaleza, playa, parque,monta\u00f1a, etc;dia de spa/sauna/masajes;actividades de relajacion como yoga, pilates, entre otras",
+            "patterns": [
+                "disfrutar de la naturaleza, playa, parque,monta\u00f1a, etc",
+                "dia de spa/sauna/masajes",
+                "actividades de relajacion como yoga, pilates, entre otras"
+            ]
+        },
+        {
+            "tag": "dia de spa/sauna/masajes;actividades de relajacion como yoga, pilates, entre otras",
+            "patterns": [
+                "dia de spa/sauna/masajes",
+                "actividades de relajacion como yoga, pilates, entre otras"
+            ]
+        },
+        {
+            "tag": "disfrutar de la naturaleza, playa, parque,monta\u00f1a, etc;aprovechar del alojamiento y salir cuando tienes ganas;dia de spa/sauna/masajes",
+            "patterns": [
+                "disfrutar de la naturaleza, playa, parque,monta\u00f1a, etc",
+                "aprovechar del alojamiento y salir cuando tienes ganas",
+                "dia de spa/sauna/masajes"
+            ]
+        },
+        {
+            "tag": "actividades de relajacion como yoga, pilates, entre otras",
+            "patterns": [
+                "actividades de relajacion como yoga, pilates, entre otras"
+            ]
+        },
+        {
+            "tag": "aprovechar del alojamiento y salir cuando tienes ganas;dia de spa/sauna/masajes",
+            "patterns": [
+                "aprovechar del alojamiento y salir cuando tienes ganas",
+                "dia de spa/sauna/masajes"
+            ]
+        },
+        {
+            "tag": "lo decido en el momento seg\u00fan me parece",
+            "patterns": [
+                "lo decido en el momento seg\u00fan me parece"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)"
+            ]
+        },
+        {
+            "tag": "comer algo al paso / llevar para comer en donde yo quiera",
+            "patterns": [
+                "comer algo al paso / llevar para comer en donde yo quiera"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc);tomar un aperitivo y picar algo;lo decido en el momento seg\u00fan me parece",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+                "tomar un aperitivo y picar algo",
+                "lo decido en el momento seg\u00fan me parece"
+            ]
+        },
+        {
+            "tag": "tomar un aperitivo y picar algo;cadenas (mc donals/ burguer king/ kfc / etc)",
+            "patterns": [
+                "tomar un aperitivo y picar algo",
+                "cadenas (mc donals/ burguer king/ kfc / etc)"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc);tomar un aperitivo y picar algo;comer algo al paso / llevar para comer en donde yo quiera",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+                "tomar un aperitivo y picar algo",
+                "comer algo al paso / llevar para comer en donde yo quiera"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc);lo decido en el momento seg\u00fan me parece;busco comentarios en google maps / tripadvisor/ kayak / etc",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+                "lo decido en el momento seg\u00fan me parece",
+                "busco comentarios en google maps / tripadvisor/ kayak / etc"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc);tomar un aperitivo y picar algo",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+                "tomar un aperitivo y picar algo"
+            ]
+        },
+        {
+            "tag": "lo decido en el momento seg\u00fan me parece;busco comentarios en google maps / tripadvisor/ kayak / etc",
+            "patterns": [
+                "lo decido en el momento seg\u00fan me parece",
+                "busco comentarios en google maps / tripadvisor/ kayak / etc"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc);comer algo al paso / llevar para comer en donde yo quiera",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+                "comer algo al paso / llevar para comer en donde yo quiera"
+            ]
+        },
+        {
+            "tag": "tomar un aperitivo y picar algo;lo decido en el momento seg\u00fan me parece",
+            "patterns": [
+                "tomar un aperitivo y picar algo",
+                "lo decido en el momento seg\u00fan me parece"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc);busco comentarios en google maps / tripadvisor/ kayak / etc;comer algo al paso / llevar para comer en donde yo quiera",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+                "busco comentarios en google maps / tripadvisor/ kayak / etc",
+                "comer algo al paso / llevar para comer en donde yo quiera"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc);lo decido en el momento seg\u00fan me parece",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+                "lo decido en el momento seg\u00fan me parece"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc);busco comentarios en google maps / tripadvisor/ kayak / etc",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+                "busco comentarios en google maps / tripadvisor/ kayak / etc"
+            ]
+        },
+        {
+            "tag": "lo decido en el momento seg\u00fan me parece;busco comentarios en google maps / tripadvisor/ kayak / etc;comer algo al paso / llevar para comer en donde yo quiera",
+            "patterns": [
+                "lo decido en el momento seg\u00fan me parece",
+                "busco comentarios en google maps / tripadvisor/ kayak / etc",
+                "comer algo al paso / llevar para comer en donde yo quiera"
+            ]
+        },
+        {
+            "tag": "tomar un aperitivo y picar algo",
+            "patterns": [
+                "tomar un aperitivo y picar algo"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc);tomar un aperitivo y picar algo;busco comentarios en google maps / tripadvisor/ kayak / etc",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+                "tomar un aperitivo y picar algo",
+                "busco comentarios en google maps / tripadvisor/ kayak / etc"
+            ]
+        },
+        {
+            "tag": "tomar un aperitivo y picar algo;ir a tomar algo solamente;lo decido en el momento seg\u00fan me parece",
+            "patterns": [
+                "tomar un aperitivo y picar algo",
+                "ir a tomar algo solamente",
+                "lo decido en el momento seg\u00fan me parece"
+            ]
+        },
+        {
+            "tag": "busco comentarios en google maps / tripadvisor/ kayak / etc;comer algo al paso / llevar para comer en donde yo quiera",
+            "patterns": [
+                "busco comentarios en google maps / tripadvisor/ kayak / etc",
+                "comer algo al paso / llevar para comer en donde yo quiera"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc);cadenas (mc donals/ burger king/ kfc / etc);lo decido en el momento seg\u00fan me parece",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+                "cadenas (mc donals/ burger king/ kfc / etc)",
+                "lo decido en el momento seg\u00fan me parece"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc);cadenas (mc donals/ burger king/ kfc / etc);busco comentarios en google maps / tripadvisor/ kayak / etc",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+                "cadenas (mc donals/ burger king/ kfc / etc)",
+                "busco comentarios en google maps / tripadvisor/ kayak / etc"
+            ]
+        },
+        {
+            "tag": "tomar un aperitivo y picar algo;comer algo al paso / llevar para comer en donde yo quiera",
+            "patterns": [
+                "tomar un aperitivo y picar algo",
+                "comer algo al paso / llevar para comer en donde yo quiera"
+            ]
+        },
+        {
+            "tag": "restaurante t\u00edpico del destino (con sus platos, tragos, etc);ir a tomar algo solamente;cadenas (mc donals/ burger king/ kfc / etc)",
+            "patterns": [
+                "restaurante t\u00edpico del destino (con sus platos, tragos, etc)",
+                "ir a tomar algo solamente",
+                "cadenas (mc donals/ burger king/ kfc / etc)"
+            ]
+        },
+        {
+            "tag": "s\u00ed",
+            "patterns": [
+                "s\u00ed"
+            ]
+        },
+        {
+            "tag": "tal vez",
+            "patterns": [
+                "tal vez"
+            ]
+        },
+        {
+            "tag": "no",
+            "patterns": [
+                "no"
+            ]
+        },
+        {
+            "tag": "no",
+            "patterns": [
+                "no"
+            ]
+        },
+        {
+            "tag": "si",
+            "patterns": [
+                "si"
+            ]
+        },
+        {
+            "tag": "en verano en un destino con playa",
+            "patterns": [
+                "en verano en un destino con playa"
+            ]
+        },
+        {
+            "tag": "en verano en un destino con monta\u00f1a y naturaleza",
+            "patterns": [
+                "en verano en un destino con monta\u00f1a y naturaleza"
+            ]
+        },
+        {
+            "tag": "en oto\u00f1o / primavera en una capital o ciudad grande",
+            "patterns": [
+                "en oto\u00f1o / primavera en una capital o ciudad grande"
+            ]
+        },
+        {
+            "tag": "en invierno un destino con estaci\u00f3n de ski",
+            "patterns": [
+                "en invierno un destino con estaci\u00f3n de ski"
+            ]
+        },
+        {
+            "tag": "todas las anteriores ",
+            "patterns": [
+                "todas las anteriores "
+            ]
+        },
+        {
+            "tag": "bariloche - en invierno",
+            "patterns": [
+                "bariloche - en invierno"
+            ]
+        },
+        {
+            "tag": "mar del plata -  en verano",
+            "patterns": [
+                "mar del plata -  en verano"
+            ]
+        },
+        {
+            "tag": "mendoza - excepto invierno",
+            "patterns": [
+                "mendoza - excepto invierno"
+            ]
+        },
+        {
+            "tag": "cordoba - primavera/verano",
+            "patterns": [
+                "cordoba - primavera/verano"
+            ]
+        },
+        {
+            "tag": "buenos aires - excepto en verano",
+            "patterns": [
+                "buenos aires - excepto en verano"
+            ]
+        },
+        {
+            "tag": "bariloche verano / cataratas del iguaz\u00fa verano invierno ",
+            "patterns": [
+                "bariloche verano / cataratas del iguaz\u00fa verano invierno "
+            ]
+        }
+    ]
+}

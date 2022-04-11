@@ -1,0 +1,61 @@
+{
+    "preguntas":[
+        {
+            "estado":"inicio",
+            "pregunta":[
+                "Hola soy un chatbot que te ayudara a conocer tu proxima aventura, quieres comenzar?"
+            ]
+        },
+        {
+            "estado":"nombre",
+            "pregunta":[
+                "Cuentame como te llamas?"
+            ]
+        },
+        {
+            "estado":"edad",
+            "pregunta":[
+                "Cuantos años tienes?"
+            ]
+        },
+        {
+            "estado":"genero",
+            "pregunta":[
+                "Con que genero te identificas?"
+            ]
+        },
+        {
+            "estado":"fechas",
+            "pregunta":[
+                "En que fecha tienes pensando salir de viaje?"
+            ]
+        },
+        {
+            "estado":"siguiente_bot",
+            "pregunta":[
+                
+            ]
+        },
+        {
+            "estado":"decision_bot",
+            "pregunta":[
+                "Segun lo que me comentaste tu destino ideal puede ser Buenos Aires"
+            ]
+        }
+    ],
+    "final":[
+        "Gracias por hablar conmigo, hasta la proxima"
+    ],
+    "sin_respuesta":[
+            
+        "no entiendo lo que me quieres decir"    
+        
+    ],
+    "intents":[
+        {"tag": "pregunta_1",
+        "patterns": ["formas de preguntar"],
+        "responses": [""],
+        "context": [""]
+        }
+    ]
+}

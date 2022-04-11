@@ -1,0 +1,199 @@
+{
+    "intents": [
+        {
+            "tag": "\ufffdCu\ufffdndo te gusta salir de vacaciones generalmente?",
+            "patterns": [
+                "verano",
+                "temporadas intermedias ( oto\ufffdo / invierno)",
+                "indiferente",
+                "invierno",
+                "todas las amo "
+            ]
+        },
+        {
+            "tag": "Generalmente planeas tus vacaciones con:",
+            "patterns": [
+                "pareja",
+                "familia",
+                "amigos",
+                "yo sola",
+                "solo",
+                "sola",
+                "mi hija ",
+                "sola, y si alguien se suma mejor!",
+                "amigos y pareja ",
+                "depende de lugar y la ocasi\ufffdn ",
+                "solo/a"
+            ]
+        },
+        {
+            "tag": "\ufffdQu\ufffd es lo que m\ufffds te gusta hacer en tus vacaciones?",
+            "patterns": [
+                "hacer turismo en el destino vacacional",
+                "hacer turismo en el destino vacacional;disfrutar de la gastronom\ufffda",
+                "relajarse",
+                "relajarse;deportes / aventura",
+                "deportes / aventura;disfrutar de la gastronom\ufffda",
+                "relajarse;hacer turismo en el destino vacacional",
+                "relajarse;disfrutar de la gastronom\ufffda",
+                "todos las opciones ",
+                "deportes / aventura;hacer turismo en el destino vacacional",
+                "deportes / aventura",
+                "relajarse;playa",
+                "playa",
+                "relajarse;salidas nocturnas",
+                "todo ",
+                "disfrutar de la gastronom\ufffda",
+                "salidas nocturnas;hacer turismo en el destino vacacional",
+                "salidas nocturnas;disfrutar de la gastronom\ufffda"
+            ]
+        },
+        {
+            "tag": "\ufffdQu\ufffd tipo de de actividades te gustan para hacer turismo??",
+            "patterns": [
+                "recorrer s\ufffdlo los puntos de inter\ufffds del destino",
+                "conocer mayormente el destino por cuenta propia",
+                "disfrutar y recorrer tranquilamente",
+                "conocer mayormente el destino por cuenta propia;disfrutar y recorrer tranquilamente;ir a festivales o eventos si hubiera en esa fecha",
+                "conocer mayormente el destino por cuenta propia;solo alguna excursi\ufffdn especifica",
+                "conocer mayormente el destino por cuenta propia;disfrutar y recorrer tranquilamente",
+                "conocer mayormente el destino por cuenta propia;recorrer s\ufffdlo los puntos de inter\ufffds del destino;ir a festivales o eventos si hubiera en esa fecha",
+                "excursiones de agencias tur\ufffdsticas;conocer mayormente el destino por cuenta propia;disfrutar y recorrer tranquilamente",
+                "conocer mayormente el destino por cuenta propia;solo alguna excursi\ufffdn especifica;disfrutar y recorrer tranquilamente",
+                "conocer mayormente el destino por cuenta propia;ir a festivales o eventos si hubiera en esa fecha",
+                "disfrutar y recorrer tranquilamente;ir a festivales o eventos si hubiera en esa fecha",
+                "solo alguna excursi\ufffdn especifica;disfrutar y recorrer tranquilamente",
+                "recorrer s\ufffdlo los puntos de inter\ufffds del destino;ir a festivales o eventos si hubiera en esa fecha",
+                "recorrer s\ufffdlo los puntos de inter\ufffds del destino;disfrutar y recorrer tranquilamente",
+                "excursiones de agencias tur\ufffdsticas;disfrutar y recorrer tranquilamente",
+                "conocer mayormente el destino por cuenta propia;recorrer s\ufffdlo los puntos de inter\ufffds del destino;disfrutar y recorrer tranquilamente",
+                "excursiones de agencias tur\ufffdsticas;conocer mayormente el destino por cuenta propia;ir a festivales o eventos si hubiera en esa fecha",
+                "excursiones de agencias tur\ufffdsticas;conocer mayormente el destino por cuenta propia",
+                "excursiones de agencias tur\ufffdsticas;disfrutar y recorrer tranquilamente;ir a festivales o eventos si hubiera en esa fecha",
+                "recorrer s\ufffdlo los puntos de inter\ufffds del destino;solo alguna excursi\ufffdn especifica;disfrutar y recorrer tranquilamente"
+            ]
+        },
+        {
+            "tag": "\ufffdQu\ufffd tipo de deporte te gusta practicar en tus vacaciones?",
+            "patterns": [
+                "senderismo o trekking;caminar",
+                "senderismo o trekking",
+                "no hago deportes en vacaciones",
+                "senderismo o trekking;deportes extremos (escalada / parapente / alpinismo )",
+                "senderismo o trekking;deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+                "running",
+                "senderismo o trekking;ski / snowboard;deportes extremos (escalada / parapente / alpinismo )",
+                "senderismo o trekking;ski / snowboard;deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+                "deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+                "senderismo o trekking;ski / snowboard",
+                "running;surf;ski / snowboard",
+                "running;deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+                "senderismo o trekking;deportes extremos (escalada / parapente / alpinismo );deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+                "deportes extremos (escalada / parapente / alpinismo )",
+                "senderismo o trekking;deportes extremos (escalada / parapente / alpinismo );f\ufffdtbol con gente local",
+                "senderismo o trekking;surf",
+                "senderismo o trekking;running",
+                "senderismo o trekking;running;deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+                "surf",
+                "ski / snowboard",
+                "senderismo o trekking;running;ski / snowboard"
+            ]
+        },
+        {
+            "tag": "\ufffdQu\ufffd prefieres hacer cuando sales en tus vacaciones?",
+            "patterns": [
+                "bar;fiestas o festivales del destino si hay en esa fecha",
+                "no salgo mucho por la noche",
+                "fiestas o festivales del destino si hay en esa fecha",
+                "concierto o m\ufffdsica en vivo;fiestas o festivales del destino si hay en esa fecha;fogata nocturna",
+                "bar;fiestas o festivales del destino si hay en esa fecha;fogata nocturna",
+                "fogata nocturna",
+                "bar;concierto o m\ufffdsica en vivo;fiestas o festivales del destino si hay en esa fecha",
+                "concierto o m\ufffdsica en vivo;fogata nocturna;no salgo mucho por la noche",
+                "bar",
+                "concierto o m\ufffdsica en vivo",
+                "concierto o m\ufffdsica en vivo;fiestas o festivales del destino si hay en esa fecha",
+                "discoteca",
+                "concierto o m\ufffdsica en vivo;fogata nocturna",
+                "no salgo mucho por la noche;pasear por el lugar y cenar.",
+                "discoteca;fogata nocturna",
+                "bar;concierto o m\ufffdsica en vivo",
+                "discoteca;bar;fiestas o festivales del destino si hay en esa fecha",
+                "discoteca;concierto o m\ufffdsica en vivo;fiestas o festivales del destino si hay en esa fecha",
+                "bar;concierto o m\ufffdsica en vivo;fogata nocturna",
+                "discoteca;bar;fogata nocturna",
+                "discoteca;bar",
+                "bar;fogata nocturna",
+                "discoteca;bar;concierto o m\ufffdsica en vivo"
+            ]
+        },
+        {
+            "tag": "\ufffdC\ufffdmo te gusta pasar tu tiempo libre en tus vacaciones?",
+            "patterns": [
+                "disfrutar de la naturaleza, playa, parque,monta\ufffda, etc",
+                "aprovechar del alojamiento y salir cuando tienes ganas",
+                "disfrutar de la naturaleza, playa, parque,monta\ufffda, etc;dia de spa/sauna/masajes",
+                "disfrutar de la naturaleza, playa, parque,monta\ufffda, etc;actividades de relajacion como yoga, pilates, entre otras",
+                "disfrutar de la naturaleza, playa, parque,monta\ufffda, etc;aprovechar del alojamiento y salir cuando tienes ganas",
+                "disfrutar de la naturaleza, playa, parque,monta\ufffda, etc;dia de spa/sauna/masajes;actividades de relajacion como yoga, pilates, entre otras",
+                "dia de spa/sauna/masajes;actividades de relajacion como yoga, pilates, entre otras",
+                "disfrutar de la naturaleza, playa, parque,monta\ufffda, etc;aprovechar del alojamiento y salir cuando tienes ganas;dia de spa/sauna/masajes",
+                "actividades de relajacion como yoga, pilates, entre otras",
+                "aprovechar del alojamiento y salir cuando tienes ganas;dia de spa/sauna/masajes"
+            ]
+        },
+        {
+            "tag": "\ufffdQu\ufffd prefieres a la hora de salir a comer o tomar algo?",
+            "patterns": [
+                "lo decido en el momento seg\ufffdn me parece",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc)",
+                "comer algo al paso / llevar para comer en donde yo quiera",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc);tomar un aperitivo y picar algo;lo decido en el momento seg\ufffdn me parece",
+                "tomar un aperitivo y picar algo;cadenas (mc donals/ burguer king/ kfc / etc)",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc);tomar un aperitivo y picar algo;comer algo al paso / llevar para comer en donde yo quiera",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc);lo decido en el momento seg\ufffdn me parece;busco comentarios en google maps / tripadvisor/ kayak / etc",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc);tomar un aperitivo y picar algo",
+                "lo decido en el momento seg\ufffdn me parece;busco comentarios en google maps / tripadvisor/ kayak / etc",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc);comer algo al paso / llevar para comer en donde yo quiera",
+                "tomar un aperitivo y picar algo;lo decido en el momento seg\ufffdn me parece",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc);busco comentarios en google maps / tripadvisor/ kayak / etc;comer algo al paso / llevar para comer en donde yo quiera",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc);lo decido en el momento seg\ufffdn me parece",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc);busco comentarios en google maps / tripadvisor/ kayak / etc",
+                "lo decido en el momento seg\ufffdn me parece;busco comentarios en google maps / tripadvisor/ kayak / etc;comer algo al paso / llevar para comer en donde yo quiera",
+                "tomar un aperitivo y picar algo",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc);tomar un aperitivo y picar algo;busco comentarios en google maps / tripadvisor/ kayak / etc",
+                "tomar un aperitivo y picar algo;ir a tomar algo solamente;lo decido en el momento seg\ufffdn me parece",
+                "busco comentarios en google maps / tripadvisor/ kayak / etc;comer algo al paso / llevar para comer en donde yo quiera",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc);cadenas (mc donals/ burger king/ kfc / etc);lo decido en el momento seg\ufffdn me parece",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc);cadenas (mc donals/ burger king/ kfc / etc);busco comentarios en google maps / tripadvisor/ kayak / etc",
+                "tomar un aperitivo y picar algo;comer algo al paso / llevar para comer en donde yo quiera",
+                "restaurante t\ufffdpico del destino (con sus platos, tragos, etc);ir a tomar algo solamente;cadenas (mc donals/ burger king/ kfc / etc)"
+            ]
+        },
+        {
+            "tag": "\ufffdTe ayudas con internet para encontrar un buen sitio?",
+            "patterns": [
+                "s\ufffd",
+                "tal vez",
+                "no"
+            ]
+        },
+        {
+            "tag": "\ufffdBuscas antes de viajar informaci\ufffdn / comentarios sobre el destino tur\ufffdstico para saber que hacer y planear tus d\ufffdas en el?",
+            "patterns": [
+                "no",
+                "si"
+            ]
+        },
+        {
+            "tag": "Si tuvieras que elegir, tus pr\ufffdximas vacaciones serian en:",
+            "patterns": [
+                "en verano en un destino con playa",
+                "en verano en un destino con monta\ufffda y naturaleza",
+                "en oto\ufffdo / primavera en una capital o ciudad grande",
+                "en invierno un destino con estaci\ufffdn de ski",
+                "todas las anteriores "
+            ]
+        }
+    ]
+}

@@ -1,0 +1,545 @@
+{
+    "intents": [
+        {
+            "tag": "pareja",
+            "patterns": [
+                "pareja",
+		"con mi pareja",
+		"con pareja",
+        "en pareja"
+            ]
+        },
+        {
+            "tag": "familia",
+            "patterns": [
+                "familia",
+		"con familia",
+		"con mi familia",
+        "en familia"
+            ]
+        },
+        {
+            "tag": "amigo",
+            "patterns": [
+                "amigos",
+		"amigas",
+		"con amigos",
+		"con amigas",
+        "con una amiga",
+        "con un amigo",
+        "amigo",
+        "amiga"
+            ]
+        },
+        {
+            "tag": "solo",
+            "patterns": [
+                "yo sola",
+                "solo",
+                "sola"
+            ]
+        },
+        {
+            "tag": "hijo",
+            "patterns": [
+                "mi hija",
+		"mi hijo",
+        "con mis hijos",
+        "con mis hijas",
+        "hijos"
+            ]
+        },
+        {
+            "tag": "solo si sumar mejor",
+            "patterns": [
+                "sola, y si alguien se suma mejor!",
+		"solo si alguien se suma mejor"
+            ]
+        },
+        {
+            "tag": "depende lugar ocasion",
+            "patterns": [
+                "depende de lugar y la ocasion "
+            ]
+        },
+        {
+            "tag": "verano",
+            "patterns": [
+                "verano",
+                "en verano"
+            ]
+        },
+        {
+            "tag": "invierno",
+            "patterns": [
+                "invierno",
+                "en invierno"
+            ]
+        },
+        {
+            "tag": "intermedias",
+            "patterns": [
+                "otono",
+                "en otono",
+				"en primavera",
+				"primavera"
+            ]
+        },
+        {
+            "tag": "indiferente",
+            "patterns": [
+                "indiferente",
+                "es lo mismo",
+				"me es indiferente",
+				"en cualquier epoca"
+            ]
+        },
+        {
+            "tag": "turismo",
+            "patterns": [
+                "hacer turismo en el destino vacacional",
+		"hacer turismo en el destino",
+		"hacer turismo",
+        "turismo"
+            ]
+        },
+        {
+            "tag": "disfrutar gastronomia",
+            "patterns": [
+                "gastronomia",
+                "disfrutar de la gastronomia",
+                "comer",
+                "ir a comer",
+                "salir a comer",
+		        "ir a restaurantes"
+            ]
+        },
+        {
+            "tag": "relajar",
+            "patterns": [
+                "relajarse",
+		"relajarme",
+		"estar relajado"
+            ]
+        },
+        {
+            "tag": "deporte aventura",
+            "patterns": [
+                "aventura",
+                "deportes / aventura",
+		"deportes y aventura",
+        "deportes",
+		"deportes de aventura",
+		"salir de aventura",
+		"aventura"
+            ]
+        },
+        
+        {
+            "tag": "opcion",
+            "patterns": [
+                "hacer de todo un poco "
+            ]
+        },
+      
+        {
+            "tag": "playa",
+            "patterns": [
+                "playa",
+		"ir a la playa",
+		"hacer playa",
+		"tomar sol en la playa",
+		"tomar sol y bañarme"
+            ]
+        },
+        {
+            "tag": "salida nocturno",
+            "patterns": [
+                
+                "salidas nocturnas",
+		"salir",
+		"salir en la noche",
+		"salir con amigos"
+            ]
+        },
+        
+        {
+            "tag": "recorrer solo punto interes destino",
+            "patterns": [
+                "recorrer solo los puntos de interes del destino",
+		"recorrer solo puntos especificos",
+		"recorrer lo indispensable"
+            ]
+        },
+        {
+            "tag": "conocer mayormente destino cuenta propio",
+            "patterns": [
+                "conocer mayormente el destino por cuenta propia",
+		        "conocer el destino por mi cuenta",
+		        "conocer yo el destino",
+		        "recorrer el destino por mi cuenta",
+				"conocer el destino"
+            ]
+        },
+        {
+            "tag": "disfrutar recorrer tranquilamente",
+            "patterns": [
+                "disfrutar y recorrer tranquilamente",
+		        "recorrer sin apuros",
+                "recorrer tranquilo"
+            ]
+        },
+       
+        {
+            "tag": "solo excursion especificar",
+            "patterns": [
+                "solo alguna excursion especifica",
+				"alguna excursion",
+				"excursion especifica"
+            ]
+        },
+        {
+            "tag": "recorrer punto interes destino",
+            "patterns": [
+               
+                "recorrer solo los puntos de interes del destino"
+            ]
+        },
+        {
+            "tag": "festival evento",
+            "patterns": [
+                "festival",
+                "festivales",
+                "ir a festivales si hubiera en esa fecha",
+                "evento",
+                "eventos"
+            ]
+        },
+        {
+            "tag": "excursion agencia turisticas",
+            "patterns": [
+                "excursiones de agencias turisticas",
+                "agencia",
+                "excursion",
+                "excursiones",
+				"hacer excursiones"
+            ]
+        },
+ 
+        {
+            "tag": "senderismo",
+            "patterns": [
+                "senderismo o trekking",
+                "senderismo",
+                "trekking",
+                "caminar"
+            ]
+        },
+       
+        {
+            "tag": "no hacer deporte vacaciones",
+            "patterns": [
+                "no hago deportes en vacaciones",
+		        "yo no hago deporte",
+		        "no practico deporte en mis vacaciones"
+            ]
+        },
+        {
+            "tag": "deporte extremo",
+            "patterns": [
+                "escalada",
+                "parapente",
+                "alpinismo",
+                "deportes extremos (escalada / parapente / alpinismo )",
+		        "deportes extremos",
+		        "escalada, parapente, alpinismo"
+            ]
+        },
+        {
+            "tag": "deporte acuatico",
+            "patterns": [
+                "senderismo o trekking",
+                "deportes acuaticos",
+                "kitesurf",
+                "windsurf",
+                "parasailing",
+                "standup paddle",
+                "kayak",
+                "rafting",
+                "deportes acuaticos (kitesurf / windsurf / parasailing / standup paddle / kayak / rafting)",
+                "surf",
+		        "hacer surf",
+		        "surfear"
+            ]
+        },
+        {
+            "tag": "running",
+            "patterns": [
+                "running",
+		        "correr",
+		        "me gusta correr"
+            ]
+        },
+        
+        {
+            "tag": "ski snowboard",
+            "patterns": [
+                "senderismo o trekking",
+                "ski / snowboard",
+                "ski",
+                "snowboard",
+                "deportes de nieve",
+                "nieve"
+            ]
+        },
+     
+        {
+            "tag": "futbol",
+            "patterns": [
+                "futbol",
+                "futbol con gente local"
+            ]
+        },
+       
+        {
+            "tag": "ski snowboard",
+            "patterns": [
+                "ski / snowboard",
+		"hacer ski",
+		"hacer snowboard",
+		"ski",
+		"snowboard"
+            ]
+        },
+
+        {
+            "tag": "bar",
+            "patterns": [
+                "bar",
+				"ir a un bar",
+				"salir de copas",
+				"salir de bares",
+				"ir al bar"
+            ]
+        },
+        {
+            "tag": "concierto musica vivo ",
+            "patterns": [
+                "concierto o musica en vivo",
+               "musica",
+               "vivo",
+               "concierto"
+            ]
+        },
+        {
+            "tag": "fogata nocturno",
+            "patterns": [
+                "fogata",
+                "fogatas",
+                "nocturna",
+                "fogata nocturna",
+                "guitarra",
+                "fogata y guitarra"
+            ]
+        },
+        
+        {
+            "tag": "no salir mucho noche",
+            "patterns": [
+                "no salgo por la noche",
+                "no me gusta salir de noche",
+                "no salgo a la noche",
+                "no salgo mucho por la noche",
+				"no salgo en la noche"
+            ]
+        },
+      
+        {
+            "tag": "discoteca",
+            "patterns": [
+                "discoteca",
+		"boliche",
+		"disco",
+		"salir a bailar",
+        "bailar",
+        "salir con amigos",
+		"salida nocturna",
+		"salida en la noche",
+		"fiesta"
+            ]
+        },
+        
+        {
+            "tag": "pasear",
+            "patterns": [
+                "pasear",
+                "pasear por el lugar",
+				"ir de paseo"
+            ]
+        },
+       
+        {
+            "tag": "naturaleza",
+            "patterns": [
+                "disfrutar de la naturaleza, playa, parque,montana, etc",
+		        "disfrutar de la playa",
+		        "disfrutar de espacios verdes",
+		        "conocer lugares naturales",
+                "disfrutar de la montana",
+                "parque",
+                "montana",
+                "aire libre"
+            ]
+        },
+        {
+            "tag": "aprovechar alojamiento",
+            "patterns": [
+                "aprovechar del alojamiento y salir cuando tienes ganas",
+		        "aprovechar el hotel",
+		        "descansar en el hotel",
+		        "disfrutar del alojamiento",
+				"difrutar del hotel"
+            ]
+        },
+        {
+            "tag": "dia spa",
+            "patterns": [
+                "sauna",
+                "dia de spa,sauna,masajes",
+		        "spa",
+		        "masajes",
+		        "sesion de masajes",
+                "dia de spa"
+            ]
+        },
+        {
+            "tag": "yoga",
+            "patterns": [
+                "yoga",
+                "pilates",
+                "hacer yoga",
+                "hacer pilates",
+                "actividades de relajacion",
+                "actividades de relajacion como yoga, pilates, entre otras"
+            ]
+        },
+        
+        {
+            "tag": "decir momento segun parecer",
+            "patterns": [
+                "lo decido en el momento segun me parece",
+                "lo decido en el momento",
+                "en el momento"
+            ]
+        },
+        {
+            "tag": "restaurante tipico",
+            "patterns": [
+                "restaurante tipico del destino (con sus platos, tragos, etc)",
+                "tipico",
+                "restaurant tipico",
+                "restaurante tipico"
+            ]
+        },
+        {
+            "tag": "llevar",
+            "patterns": [
+                "comer algo al paso / llevar para comer en donde yo quiera",
+                "comida para llevar",
+                "comer en la calle",
+                "comida para llevar",
+                "comida al paso"
+            ]
+        },
+        {
+            "tag": "tomar aperitivo",
+            "patterns": [
+                "tomar un aperitivo y picar algo",
+                "aperitivo",
+                "tomar un aperitivo"
+            
+            ]
+        },
+        {
+            "tag": "cadena mc donals/ burguer king/ kfc",
+            "patterns": [
+                "burguer king",
+                "cadenas (mc donals/ burguer king/ kfc / etc)",
+		        "mc donals",
+		        "kfc",
+                "hamburguesa"
+            ]
+        },
+        
+        {
+            "tag": "buscar comentario google map tripadvisor/ kayak",
+            "patterns": [
+                "busco comentarios en google maps / tripadvisor/ kayak / etc",
+				"busco en internet",
+				"busco recomendaciones"
+            ]
+        },
+
+        {
+            "tag": "playa",
+            "patterns": [
+                "en verano en un destino con playa",
+		        "en verano",
+		        "verano en la playa",
+                "playa",
+                "verano",
+                "sol y playa",
+                "sol",
+                "un destino con playa"
+            ]
+        },
+        {
+            "tag": "verano destino montana naturaleza",
+            "patterns": [
+                "en verano en un destino con montana y naturaleza",
+		        "montana y naturaleza",
+		        "naturaleza",
+                "montana",
+                "verano y montana"
+            
+            ]
+        },
+        {
+            "tag": "otono primavera capital ciudad grande",
+            "patterns": [
+                "en otono / primavera en una capital o ciudad grande",
+		        "temporadas intermedias",
+		        "capital",
+		        "ciudad grande",
+                "ciudad",
+                "otono",
+                "primavera",
+                "primavera ciudad grande",
+                "otono ciudad grande",
+				"otoño"
+            ]
+        },
+        {
+            "tag": "invierno destino estacion ski",
+            "patterns": [
+                "en invierno un destino con estacion de ski",
+		        "en invierno",
+		        "en invierno para ski y snowboard",
+		        "invierno",
+		        "nieve",
+                "ski",
+                "eskiar",
+                "hacer ski",
+                "nieve y ski",
+                "frio",
+                "invierno y ski"
+            ]
+        },
+        {
+            "tag": "anterior",
+            "patterns": [
+                "cualquier opcion"
+            ]
+        }
+    ]
+}
